@@ -1,0 +1,8 @@
+{
+  "ServicingPositionOperatingSessionReportType" : "realtime-status",
+  "ServicingPositionOperatingConfigurationParameter" : "param-1",
+  "ServicingPositionOperatingSessionReport" : {},
+  "ServicingPositionOperatingSessionReportReference" : "SPOSRR123",
+  "servicingPositionOperatingSessionReference" : "SPOSR123",
+  "ServicingPositionOperatingSessionStatistics" : {}
+}

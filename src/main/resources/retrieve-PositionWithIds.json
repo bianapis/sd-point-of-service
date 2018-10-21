@@ -1,0 +1,11 @@
+{
+  "productInstanceReference" : "547352",
+  "servicingPositionCashHoldingRecordReference" : "45234",
+  "servicingPositionReference" : "76439839",
+  "servicingCurrency" : "57522",
+  "servicingCashTransactionRecordReference" : "57362",
+  "servicingCashHoldingRecord" : "3467",
+  "customerContactReference" : "4567358",
+  "servicingPositionOperatingSessionReference" : "34676",
+  "servicingCashTransactionRecord" : "cash deposited"
+}

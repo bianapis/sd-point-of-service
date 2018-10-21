@@ -1,0 +1,14 @@
+{
+  "servicingPositionInventoryRecordReference" : "34678",
+  "servicingPositionFacilityReference" : "67843",
+  "servicingInventoryTransactionRecord" : "documents issued",
+  "servicingInventoryType" : "documents/forms",
+  "servicingPositionReference" : "76439839",
+  "servicingPositionLocation" : "763243",
+  "servicingPositionFacilityType" : "customer servicing",
+  "servicingInventoryTransactionRecordReference" : "65732",
+  "servicingPositionInventoryRecord" : 67456,
+  "customerContactReference" : "57356423",
+  "servicingPositionOperatingSessionReference" : "94763",
+  "servicingPositionType" : "teller"
+}
